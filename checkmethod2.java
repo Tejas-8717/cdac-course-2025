@@ -1,3 +1,4 @@
+//Accept 2 double values from user(using scanner).check data type.if arguments are not doubles,supply suitable error message and terminate 
 package com.ass1;
 
 import java.util.Scanner;
