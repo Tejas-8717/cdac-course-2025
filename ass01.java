@@ -1,3 +1,4 @@
+//Accept a integer number and when the program is ececuted print the Binary ,Octal and HexaDecimal Equivalent of the given Number.
 package com.ass1;
 import java.util.Scanner;
 
