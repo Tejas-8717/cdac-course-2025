@@ -1,4 +1,6 @@
-import java.time.Month;
+// create a class called date that includes three fields a month(type int),a day(type int)and a year(type int).provide a constructor that inilizes the three instance variables and assumes that
+//the values provided are correct. provide a set and get method for each instance variables.provided a method displayDate that displyas tha month,day and year separated byforward slashes(/).
+//write a test application named DateTeast demonstates class Date's capabilities
 import java.time.Year;
 
 public class classcalledDate {
